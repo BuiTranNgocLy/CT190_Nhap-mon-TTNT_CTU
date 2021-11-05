@@ -3,4 +3,4 @@
  # Chương 2: Giải quyết vấn đề bằng tìm kiếm
  # Chương 4: Học từ dữ liệu
 
-<a href="https://github.com/BuiTranNgocLy/Learn_Java/tree/main/LTHDT_CT176_CTU/De_Thi_Thu">1. Đề thi thử lí thuyết và thực hành(có lời giải).</a>
+<a href="https://github.com/BuiTranNgocLy/Nhap-mon-Tri-tue-nhan-tao_CT190_CTU/blob/main/Ch%C6%B0%C6%A1ng%201:%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20TTNT.md"> # Chương 1: Giới thiệu TTNT</a>
