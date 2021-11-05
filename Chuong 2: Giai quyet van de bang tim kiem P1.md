@@ -28,9 +28,3 @@
 ### 5. Các phương pháp tìm kiếm
 - `Tìm kiếm mù (uninformed/blind search)`: *Trạng thái được chọn để phát triển chỉ dựa theo cấu trúc của KGTT mà không dùng thêm thông tin hỗ trợ.*
 - `Tìm kiếm dựa trên kinh nghiệm (informed/ heuristic search)`: *Dựa vào kinh nghiệm và sự hiểu biết để xây dựng hàm đánh giá hướng dẫn tìm kiếm*
-<hr>
-
-## B. Tìm kiếm mù (uninformed/blind search)-không có thông tin
-
-## C. Tìm kiếm dựa trên kinh nghiệm (informed/ heuristic search)
-## D. Cây trò chơi, cắt tìa ALpha - Beta
