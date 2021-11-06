@@ -32,4 +32,15 @@
 [Ví dụ Bài toán lá bài.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7490848/Bai.toan.la.bai.pdf)
 
 # III. Cắt tỉa Alpha-Beta
+* Tìm kiếm alpha – beta thực hiện theo kiểu tìm kiếm sâu.
+* Cắt tỉa Alpha - Beta
+  * `Alpha` gắn vơi các nút `MAX`, không giảm
+  * `Beta` gắn với các nút `MIN`, không tăng
+* Luật cắt tỉa
+* `Alpha cut` nút MIN có Beta `<=` nút cha MAX alpha bất kỳ
+* `Beta cut` nút MAX có alpha `>=` nút cha MIN beta bất kỳ 
+
+![image](https://user-images.githubusercontent.com/88178841/140618045-37c0d3b8-c456-413d-8d29-22ce431394c2.png)
+
+![image](https://user-images.githubusercontent.com/88178841/140618098-5276ac4f-910d-46b9-9133-ca06e10daf60.png)
 
