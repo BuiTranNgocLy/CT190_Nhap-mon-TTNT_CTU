@@ -48,7 +48,6 @@
 * Bài toán được giải quyết khi mỗi biến đều được gán trị thỏa
 mãn tất cả ràng buộc
 * 1 bài toán gồm 3 thành phần:
-
   ***X: tập hợp các biến {X1, X2 , … , Xn }***
   ***D: tập hợp các miền giá trị {D1, D2, … , Dn}, Di = {v1, v2,...,vk} gán vào biến Xi tương ứng***
   ***C: tập hợp các ràng buộc, `<scope, rel>`***
