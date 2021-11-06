@@ -26,7 +26,7 @@
     * `h(n)`: chi phí ước lượng đi từ `n đến nút mục tiêu`
  * `nút mục tiêu thì h(n) = 0.` 
  ## Chi tiết giải thuật:
- * Dùng mảng có sắp xếp theo hàm đánh giá
+ * Tương tự DFS và BFS Dùng mảng có sắp xếp theo hàm đánh giá
  * Dùng các danh sách để lưu trữ các trạng thái:
    * `OPEN`: lưu các trạng thái `sắp được kiểm tra`
    * `CLOSED`: lưu các trạng thái `đã duyệt qua`
