@@ -14,6 +14,7 @@
    - [2. Tìm kiếm tốt nhất đầu tiên - Best First Search](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20dua%20tren%20kinh%20nghiem(Informed_%20Heuristic%20%20Search).md#iii-t%C3%ACm-ki%E1%BA%BFm-t%E1%BB%91t-nh%E1%BA%A5t-%C4%91%E1%BA%A7u-ti%C3%AAn-best-first-search)
      - [2.1 Giải thuật Tìm kiếm háu ăn (Greedy)](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20dua%20tren%20kinh%20nghiem(Informed_%20Heuristic%20%20Search).md#iii-t%C3%ACm-ki%E1%BA%BFm-t%E1%BB%91t-nh%E1%BA%A5t-%C4%91%E1%BA%A7u-ti%C3%AAn-best-first-search)
      - [2.2 Giải thuật A*](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20dua%20tren%20kinh%20nghiem(Informed_%20Heuristic%20%20Search).md#v-gi%E1%BA%A3i-thu%E1%BA%ADt-a---c%E1%BA%ADp-nh%E1%BA%ADt-l%E1%BA%A1i-%C4%91%C6%B0%E1%BB%9Dng-%C4%91i-d%E1%BB%B1a-tr%C3%AAn-gi%C3%A1-tr%E1%BB%8B-gn)
+   - [3. Giải thuật Leo đồi](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20dua%20tren%20kinh%20nghiem(Informed_%20Heuristic%20%20Search).md#v-gi%E1%BA%A3i-thu%E1%BA%ADt-leo-%C4%91%E1%BB%93i-hill-climbing)
  - [D. Cây trò chơi. Cắt tỉa Alpha-Beta]
  ## Chương 4: Học từ dữ liệu
  - [1. Máy học là gì?](https://bitly.com.vn/vkat3c)
