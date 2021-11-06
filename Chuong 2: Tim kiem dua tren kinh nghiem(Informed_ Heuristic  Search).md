@@ -38,3 +38,6 @@
 # IV. Tìm kiếm háu ăn (greedy best-first search)
 * Là tìm kiếm chỉ sử dụng heuristic f(n) `cố gắng triển khai nút “gần” với mục tiêu nhất.`
 * `f(n) = h(n)`
+# V. Giải thuật A* - cập nhật lại đường đi dựa trên giá trị g(n)
+* f(n) = g(n) + h(n)
+* `h(n) phụ thuộc vào trạng thái n`. f(n) thay đổi khi g(n) thay đổi. đường đi mới đến n tốt hơn đường đi cũ => cập nhật lại g khi đường đi mới tốt hơn)
