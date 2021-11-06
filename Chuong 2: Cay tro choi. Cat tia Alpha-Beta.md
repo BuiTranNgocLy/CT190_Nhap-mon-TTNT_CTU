@@ -59,8 +59,8 @@ khác…
 * Ý tưởng:
   * Mỗi biến là một nút trong đồ thị
   * Mỗi ràng buộc nhị phân (trên 2 biến) như một cung
-![image](https://user-images.githubusercontent.com/88178841/140619038-fb752f03-545e-4a49-bb77-3f028316da17.png)
-![image](https://user-images.githubusercontent.com/88178841/140619053-3a707251-253a-4fe5-863f-948d9feb0e5b.png)
+  * 
+![image](https://user-images.githubusercontent.com/88178841/140619038-fb752f03-545e-4a49-bb77-3f028316da17.png) ![image](https://user-images.githubusercontent.com/88178841/140619053-3a707251-253a-4fe5-863f-948d9feb0e5b.png)
 
   
   
