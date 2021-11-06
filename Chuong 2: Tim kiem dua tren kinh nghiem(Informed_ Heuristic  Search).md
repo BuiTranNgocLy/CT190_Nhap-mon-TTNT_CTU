@@ -51,7 +51,7 @@
 * Không lưu trữ thông tin về nút cha, nút con
 * `Tìm kiếm dừng` khi gặp `trạng thái đích` , `trạng thái kế tiếp ”xấu” hơn trạng thái đang xét (f đang xét < f trang thái kế tiếp)`
 * Đo tính tốt hơn của một trạng thái so với trạng thái khác
-## 2. CHi tiết giải thuật
+## 2. Chi tiết giải thuật
 * `Đánh giá trạng thái khỏi đầu`: Goal state -> Exit; ngược lại xét như State hiện hành
 * `Lập lại` Tìm thấy 1 lời giải hoặc Không tìm thấy <toán tử> mới áp dụng cho State hiện hành
 * Chọn toán tử chưa áp dụng State hiện hành -> áp dụng sinh ra State mới
@@ -59,5 +59,15 @@
   * State mới là Goal -> Exit
   * State mới không phải Goal, nhưng <tốt hơn> State hiện hành, -> lấy State mới làm State hiện hành.
   * Không tốt hơn -> tiếp tục vòng lặp.
+## 3. Hạn chế
+* Không phục hồi từ những thât bại trong chiến lược.
+* Hiệu quả hoạt động chỉ được cải thiện trong 1 phạm vi giới hạn
+* Lời giải không tối ưu, không tìm được lời giải mặc dù có tồn tại lời giải do:
+  * Khuynh hướng sa lầy ở cực đại cục bộ
+  * Cao nguyên
+## 4. Cách xử lý
+* Quay lui
+* Tạo ra 1 <<bước nhảy đột phá>> theo 1 hướng
+* Áp dụng nhiều hơn 1 toán tử
 
 
