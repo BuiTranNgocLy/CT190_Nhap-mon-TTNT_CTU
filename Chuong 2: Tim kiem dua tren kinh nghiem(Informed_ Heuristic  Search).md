@@ -43,3 +43,21 @@
 * `h(n) phụ thuộc vào trạng thái n`. f(n) thay đổi khi g(n) thay đổi. đường đi mới đến n tốt hơn đường đi cũ => cập nhật lại g khi đường đi mới tốt hơn)
 * Mỗi trạng thái n tùy ý sẽ gồm 4 yếu tố `[ g(n), h(n), f(n), cha(n) ]`
 * Cha(n) là nút cha của nút đang xét n
+
+[Giải thuật A* & Ví dụ minh họa.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7490607/Gi.i.thu.t.A.sao.VD.pdf)
+# V. Giải thuật Leo đồi (Hill climbing)
+## 1. Đặc điểm
+* Trạng thái con `tốt nhất` chọn cho bước tiếp theo
+* Không lưu trữ thông tin về nút cha, nút con
+* `Tìm kiếm dừng` khi gặp `trạng thái đích` , `trạng thái kế tiếp ”xấu” hơn trạng thái đang xét (f đang xét < f trang thái kế tiếp)`
+* Đo tính tốt hơn của một trạng thái so với trạng thái khác
+## 2. CHi tiết giải thuật
+* `Đánh giá trạng thái khỏi đầu`: Goal state -> Exit; ngược lại xét như State hiện hành
+* `Lập lại` Tìm thấy 1 lời giải hoặc Không tìm thấy <toán tử> mới áp dụng cho State hiện hành
+* Chọn toán tử chưa áp dụng State hiện hành -> áp dụng sinh ra State mới
+* Đánh giá State mới:
+  * State mới là Goal -> Exit
+  * State mới không phải Goal, nhưng <tốt hơn> State hiện hành, -> lấy State mới làm State hiện hành.
+  * Không tốt hơn -> tiếp tục vòng lặp.
+
+
