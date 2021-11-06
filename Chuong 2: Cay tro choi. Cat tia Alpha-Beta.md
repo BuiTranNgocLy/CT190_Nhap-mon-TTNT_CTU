@@ -50,7 +50,12 @@ mãn tất cả ràng buộc
 * 1 bài toán gồm 3 thành phần:
   * ***X: tập hợp các biến {X1, X2 , … , Xn }***
   * ***D: tập hợp các miền giá trị {D1, D2, … , Dn}, Di = {v1, v2,...,vk} gán vào biến Xi tương ứng***
-  * ***C: tập hợp các ràng buộc, `<scope, rel>`***
+  * ***C: tập hợp các ràng buộc, `<scope, rel>` scope là
+một bộ biến tham gia vào quan hệ rel***
+* Cách giải quyết bài toán:
+  * Dùng các ràng buộc để giảm số giá trị hợp lệ cho một biến
+  * các giá trị này lại có thể làm giảm các giá trị hợp lệ cho biến
+khác…
   
   
   
