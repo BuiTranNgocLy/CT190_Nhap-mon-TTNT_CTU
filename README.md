@@ -19,7 +19,7 @@
    - [1. Ứng dụng Heuristic trong trò chơi](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Cay%20tro%20choi.%20Cat%20tia%20Alpha-Beta.md#i-%E1%BB%A9ng-d%E1%BB%A5ng-heuristic-trong-c%C3%A1c-tr%C3%B2-ch%C6%A1i)
    - [2. Giải thuật Mini-Max](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Cay%20tro%20choi.%20Cat%20tia%20Alpha-Beta.md#ii-gi%E1%BA%A3i-thu%E1%BA%ADt-mini_max)
    - [3. Cắt tỉa Alpha-Beta](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Cay%20tro%20choi.%20Cat%20tia%20Alpha-Beta.md#iii-c%E1%BA%AFt-t%E1%BB%89a-alpha-beta)
-   - [4. Bài toán thỏa mãn ràng buộc- CSP](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Cay%20tro%20choi.%20Cat%20tia%20Alpha-Beta.md#iv-b%C3%A0i-to%C3%A1n-th%E1%BB%8Fa-m%C3%A3n-r%C3%A0ng-bu%E1%BB%99c)
+   - [4. Bài toán thỏa mãn ràng buộc- CSP](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Cay%20tro%20choi.%20Cat%20tia%20Alpha-Beta.md#iv-b%C3%A0i-to%C3%A1n-th%E1%BB%8Fa-m%C3%A3n-r%C3%A0ng-bu%E1%BB%99c---constraint-satisfaction-problem)
  ## Chương 4: Học từ dữ liệu
  - [1. Máy học là gì?](https://bitly.com.vn/vkat3c)
  - [2. Phân loại máy học](https://bitly.com.vn/ttkqp6)
