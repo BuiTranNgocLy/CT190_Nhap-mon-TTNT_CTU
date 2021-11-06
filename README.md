@@ -17,7 +17,7 @@
    - [3. Giải thuật Leo đồi](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20dua%20tren%20kinh%20nghiem(Informed_%20Heuristic%20%20Search).md#v-gi%E1%BA%A3i-thu%E1%BA%ADt-leo-%C4%91%E1%BB%93i-hill-climbing)
  - [D. Cây trò chơi. Cắt tỉa Alpha-Beta](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Cay%20tro%20choi.%20Cat%20tia%20Alpha-Beta.md)
    - [1. Ứng dụng Heuristic trong trò chơi](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Cay%20tro%20choi.%20Cat%20tia%20Alpha-Beta.md#i-%E1%BB%A9ng-d%E1%BB%A5ng-heuristic-trong-c%C3%A1c-tr%C3%B2-ch%C6%A1i)
-   - [2. Giải thuật Mini-Max]()
+   - [2. Giải thuật Mini-Max](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Cay%20tro%20choi.%20Cat%20tia%20Alpha-Beta.md#ii-gi%E1%BA%A3i-thu%E1%BA%ADt-mini_max)
    - [3. Cắt tỉa Alpha-Beta]()
    - [4. Bài toán thỏa mãn ràng buộc]()
  ## Chương 4: Học từ dữ liệu
