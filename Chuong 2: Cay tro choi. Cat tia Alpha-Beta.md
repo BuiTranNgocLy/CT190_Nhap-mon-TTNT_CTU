@@ -23,4 +23,9 @@
 * `Cần hàm đánh giá Heuristic nào đó`
 * Giá trị nút lá là các giá trị Heuristic đạt được sau n bước đi kể từ nút xuất phát
 * Giá trị này truyền ngược về nút gốc => Giá trị trạng thái tốt nhất
-***All this text is important***
+
+***Hàm Heuristic***
+* `E(n) = M(n) – O(n)`
+* M(n) là tổng số đường thắng có thể của tôi
+* O(n) là tổng số đường thắng có thể của đối thủ
+* E(n) là trị số đánh giá tổng cộng cho trạng thái n
