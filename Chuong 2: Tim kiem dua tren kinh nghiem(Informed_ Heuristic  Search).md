@@ -32,3 +32,5 @@
    * `CLOSED`: lưu các trạng thái `đã duyệt qua`
  * OPEN list sẽ được sắp xếp theo thứ tự dựa trên 1 hàm Heuristic (ưu tiên cho các giá trị gần trạng thái đích)
  * Mỗi lần lặp sẽ xem xét trạng thái tiềm năng nhất trong OPEN list
+ 
+[Ví dụ Tìm kiếm tốt nhất_Trò chơi 8 ô số.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7490043/Tim.ki.m.t.t.nh.t_Tro.ch.i.8.o.s.pdf)
