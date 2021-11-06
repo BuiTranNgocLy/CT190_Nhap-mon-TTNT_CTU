@@ -17,3 +17,5 @@
   * Tối ưu và đầy đủ
   * Nhưng có thể rất chậm
 
+
+[BFS.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7489778/BFS.pdf)
