@@ -11,7 +11,8 @@
    - [5. Tìm kiếm theo giá thành đồng nhất](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20mu.md#5-t%C3%ACm-ki%E1%BA%BFm-gi%C3%A1-th%C3%A0nh-%C4%91%E1%BB%93ng-nh%E1%BA%A5t-uniform-cost-search)
  - [C. Tim kiếm dựa trên kinh nghiệm - (Informed / Heuristic Search)](https://bitly.com.vn/cie4kw)
    - [1. Hàm Heuristic](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20dua%20tren%20kinh%20nghiem(Informed_%20Heuristic%20%20Search).md#ii-chi-t%E1%BA%BFt-v%E1%BB%81-h%C3%A0m-heuristic)
-   - [ 
+   - [2. Tìm kiếm tốt nhất đầu tiên - Best First Search](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20dua%20tren%20kinh%20nghiem(Informed_%20Heuristic%20%20Search).md#iii-t%C3%ACm-ki%E1%BA%BFm-t%E1%BB%91t-nh%E1%BA%A5t-%C4%91%E1%BA%A7u-ti%C3%AAn-best-first-search)
+     - [2.1 Giải thuật Tìm kiếm háu ăn (Greedy)](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20dua%20tren%20kinh%20nghiem(Informed_%20Heuristic%20%20Search).md#iii-t%C3%ACm-ki%E1%BA%BFm-t%E1%BB%91t-nh%E1%BA%A5t-%C4%91%E1%BA%A7u-ti%C3%AAn-best-first-search)
  - [D. Cây trò chơi. Cắt tỉa Alpha-Beta]
  ## Chương 4: Học từ dữ liệu
  - [1. Máy học là gì?](https://bitly.com.vn/vkat3c)
