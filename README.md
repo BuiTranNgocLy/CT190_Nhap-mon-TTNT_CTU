@@ -17,7 +17,8 @@
    - [3. Giải thuật Leo đồi](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20dua%20tren%20kinh%20nghiem(Informed_%20Heuristic%20%20Search).md#v-gi%E1%BA%A3i-thu%E1%BA%ADt-leo-%C4%91%E1%BB%93i-hill-climbing)
  - [D. Cây trò chơi. Cắt tỉa Alpha-Beta]()
    - [1. Giải thuật Mini-Max]()
-   - [2. Cắt tỉa Alpha-Beta]() 
+   - [2. Cắt tỉa Alpha-Beta]()
+   - [3. Bài toán thỏa mãn ràng buộc]()
  ## Chương 4: Học từ dữ liệu
  - [1. Máy học là gì?](https://bitly.com.vn/vkat3c)
  - [2. Phân loại máy học](https://bitly.com.vn/ttkqp6)
