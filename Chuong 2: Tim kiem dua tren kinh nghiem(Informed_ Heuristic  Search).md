@@ -41,3 +41,5 @@
 # V. Giải thuật A* - cập nhật lại đường đi dựa trên giá trị g(n)
 * f(n) = g(n) + h(n)
 * `h(n) phụ thuộc vào trạng thái n`. f(n) thay đổi khi g(n) thay đổi. đường đi mới đến n tốt hơn đường đi cũ => cập nhật lại g khi đường đi mới tốt hơn)
+* Mỗi trạng thái n tùy ý sẽ gồm 4 yếu tố `[ g(n), h(n), f(n), cha(n) ]`
+* Cha(n) là nút cha của nút đang xét n
