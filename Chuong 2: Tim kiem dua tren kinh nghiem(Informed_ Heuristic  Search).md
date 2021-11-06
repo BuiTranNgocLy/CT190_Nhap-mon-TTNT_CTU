@@ -16,4 +16,9 @@
 ## 2. Hàm đánh giá Heurstic
 * `f(n) = g(n) + h(n)`
   *  g(n): khoảng cách thực sự từ `n đến trạng thái Start`
-  *  h(n): ước lượng heuristic cho khoảng cách từ trạng thái `n đến trạng thái` 
+  *  h(n): ước lượng heuristic cho khoảng cách từ trạng thái `n đến trạng thái Goal` 
+# III. Tìm kiếm tốt nhất đầu tiên (Best-first-search)
+* Là tiếp cận tổng quát của tìm kiếm với thông tin bổ sung.
+* Chọn nút triển khai dựa trên `hàm lượng giá f(n)`. Dựa trên việc ước lượng `chi phí và nút có giá ước lượng nhỏ nhất` được ưu `tiên triển khai trước.`
+* `Hàm h(n)` chi phí ước lượng của đường đi tốt nhất từ trạng thái của nút -> trạng thái mục tiêu. 
+
