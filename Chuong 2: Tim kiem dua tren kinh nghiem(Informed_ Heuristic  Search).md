@@ -34,3 +34,7 @@
  * Mỗi lần lặp sẽ xem xét trạng thái tiềm năng nhất trong OPEN list
  
 [Ví dụ Tìm kiếm tốt nhất_Trò chơi 8 ô số.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7490043/Tim.ki.m.t.t.nh.t_Tro.ch.i.8.o.s.pdf)
+
+# IV. Tìm kiếm háu ăn (greedy best-first search)
+* Là tìm kiếm chỉ sử dụng heuristic f(n) `cố gắng triển khai nút “gần” với mục tiêu nhất.`
+* `f(n) = h(n)`
