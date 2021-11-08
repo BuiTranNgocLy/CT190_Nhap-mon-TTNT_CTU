@@ -1,6 +1,8 @@
 # Nhập môn Trí tuệ nhân tạo_CT190_CTU
  ## Chương 1: Giới thiệu TTNT
  - [Giới thiệu về TTNT](https://bitly.com.vn/mo24mj)
+ - [Slide Li Thuyet.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7496806/Chuong0_NM_TTNT_2021_p2-da.g.p.pdf)
+
  ## Chương 2: Giải quyết vấn đề bằng tìm kiếm
  - [A. Biểu diễn bài toán trong KGTT](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Giai%20quyet%20van%20de%20bang%20tim%20kiem%20P1.md)
  - [B. Tìm kiếm mù - (UNINFORMEDBLIND SEARCH)](https://bitly.com.vn/fnix3m)
