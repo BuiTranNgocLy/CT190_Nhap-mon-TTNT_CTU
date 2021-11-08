@@ -1,4 +1,5 @@
 # Nhập môn Trí tuệ nhân tạo_CT190_CTU
+## [Tổng hợp Slide Lí thuyết](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/tree/main/Slide_Li_Thuyet)
  ## Chương 1: Giới thiệu TTNT
  - [Giới thiệu về TTNT](https://bitly.com.vn/mo24mj)
  [Chuong1_NM_TTNT.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7497074/Chuong1_NM_TTNT.pdf)
