@@ -5,6 +5,8 @@
 
  ## Chương 2: Giải quyết vấn đề bằng tìm kiếm
  - [A. Biểu diễn bài toán trong KGTT](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Giai%20quyet%20van%20de%20bang%20tim%20kiem%20P1.md)
+    
+=> [Slide Lí thuyết Biểu diễn bài toán trong KGTT.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7496829/Chuong2_Search_NMTTNT_2021_08_p1-trang-1-8.pdf)
  - [B. Tìm kiếm mù - (UNINFORMEDBLIND SEARCH)](https://bitly.com.vn/fnix3m)
    - [1. Tìm kiếm rộng - BFS](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20mu.md#1-t%C3%ACm-ki%E1%BA%BFm-r%E1%BB%99ng-breath-first-search)
    - [2. Tìm kiếm sâu - DFS](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Tim%20kiem%20mu.md#2-t%C3%ACm-ki%E1%BA%BFm-s%C3%A2u-depth-first-search)
