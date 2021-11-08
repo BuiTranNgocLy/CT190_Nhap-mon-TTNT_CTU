@@ -14,3 +14,4 @@ làm được những cái mà hiện tại con người làm tốt hơn.
   - `Tình huống mới`
   - `Hành động dựa trên lí trí`
   - `Hành xử như con người`
+- [Chương 1: Giới thiệu TTNT.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7496788/Chuong0_NM_TTNT_2021_p2-da.g.p.pdf)
