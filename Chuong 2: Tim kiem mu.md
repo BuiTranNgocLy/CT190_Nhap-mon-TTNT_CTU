@@ -16,6 +16,9 @@
   * Đảm bảo tìm được giải pháp với chi phí thấp nhất nếu biết rằng chi phí tăng khi chiều dài đường đi tăng
   * Tối ưu và đầy đủ
   * Nhưng có thể rất chậm
+ 
+ =>[Slide Lí thuyết.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7496908/Chuong2_Search_NMTTNT_2021_08_p1-trang-9-12-da.g.p-da.nen.pdf)
+
 
 
 
