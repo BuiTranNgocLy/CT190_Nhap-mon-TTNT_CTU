@@ -26,7 +26,7 @@
    - [3. Cắt tỉa Alpha-Beta](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Cay%20tro%20choi.%20Cat%20tia%20Alpha-Beta.md#iii-c%E1%BA%AFt-t%E1%BB%89a-alpha-beta)
    - [4. Bài toán thỏa mãn ràng buộc- CSP](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/blob/main/Chuong%202:%20Cay%20tro%20choi.%20Cat%20tia%20Alpha-Beta.md#iv-b%C3%A0i-to%C3%A1n-th%E1%BB%8Fa-m%C3%A3n-r%C3%A0ng-bu%E1%BB%99c---constraint-satisfaction-problem)
  ## Chương 3: Biểu diễn tri thức
- - [1. Tại sao phải biểu diễn tri thức]
+ - [1. Tại sao phải biểu diễn tri thức](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#1-t%E1%BA%A1i-sao-ph%E1%BA%A3i-bi%E1%BB%83u-di%E1%BB%85n-tri-th%E1%BB%A9c)
  - [2. Biểu diễn tri thức là gì?]
  - [3. Biểu diễn ánh xạ]
  - [4. Các phương pháp biểu diễn tri thức]
