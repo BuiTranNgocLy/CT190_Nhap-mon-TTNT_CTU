@@ -11,6 +11,7 @@
 - Chia thành 2 lớp
    - `Tri thức sự kiện` mô tả sự kiện trong thế giới
    - `Tri thức suy diễn` mô tả 'quy luật' mối quan hệ giữa các sự
+   
   ![image](https://user-images.githubusercontent.com/88178841/141438484-85a91c3b-b3c7-4872-a13d-ffc9effa732c.png)
 
 # 3. Biểu diễn ánh xạ
