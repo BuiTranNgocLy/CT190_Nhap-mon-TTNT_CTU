@@ -10,4 +10,11 @@
 - `Sự hiểu biết`
 - Chia thành 2 lớp
    - `Tri thức sự kiện` mô tả sự kiện trong thế giới
-   - `Tri thức suy diễn` mô tả 'quy luật' mối quan hệ giữa các sự  
+   - `Tri thức suy diễn` mô tả 'quy luật' mối quan hệ giữa các sự
+#3. Biểu diễn ánh xạ
+Các sự kiện ban đầu
+      |
+Ánh xạ biểu diễn xuôi
+      |
+Biểu diễn trong của các
+sự kiện ban 
