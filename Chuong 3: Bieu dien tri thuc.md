@@ -65,7 +65,8 @@
 - `Áp dụng  biểu thức logic ở dạng chuẩn CNF`
 - ![image](https://user-images.githubusercontent.com/88178841/141487172-e6a2886d-e2da-4910-a67f-e4b9e8a4eccb.png)
 
-Ví dụ
+VÍ DỤ
+
 ![image](https://user-images.githubusercontent.com/88178841/141487414-0914ca9a-df13-4dc2-8610-00abe045f342.png)
 
 ![image](https://user-images.githubusercontent.com/88178841/141487452-745c4221-bdc3-4351-af0c-c37acb163577.png)
