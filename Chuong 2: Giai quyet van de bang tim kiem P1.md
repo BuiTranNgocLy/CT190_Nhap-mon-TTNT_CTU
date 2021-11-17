@@ -30,3 +30,7 @@
 - `Tìm kiếm dựa trên kinh nghiệm (informed/ heuristic search)`: *Dựa vào kinh nghiệm và sự hiểu biết để xây dựng hàm đánh giá hướng dẫn tìm kiếm*
 
 [Chương 2: Biểu diễn bài toán trong KGTT.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7496829/Chuong2_Search_NMTTNT_2021_08_p1-trang-1-8.pdf)
+
+<hr>
+
+**Author Bui Tran Ngoc Ly**
