@@ -15,3 +15,6 @@ làm được những cái mà hiện tại con người làm tốt hơn.
   - `Hành động dựa trên lí trí`
   - `Hành xử như con người`
 
+<hr>
+
+**Author Bui Tran Ngoc Ly**
