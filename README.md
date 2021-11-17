@@ -34,6 +34,7 @@
  - [6. Chứng minh bằng Hợp giải](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#ch%E1%BB%A9ng-minh-logic)
  ## Chương 4: Học từ dữ liệu
  - [1. Máy học là gì?](https://bitly.com.vn/vkat3c)
- - [2. Phân loại máy học](https://bitly.com.vn/ttkqp6)
+ - [2. Phân loại máy học](https://bitly.com.vn/ttkqp6
 
-            
+<hr>
+**Author Bui Tran Ngoc Ly**
