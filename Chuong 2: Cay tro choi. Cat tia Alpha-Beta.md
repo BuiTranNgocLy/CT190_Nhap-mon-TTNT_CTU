@@ -62,6 +62,8 @@ khác…
   * 
 ![image](https://user-images.githubusercontent.com/88178841/140619038-fb752f03-545e-4a49-bb77-3f028316da17.png) ![image](https://user-images.githubusercontent.com/88178841/140619053-3a707251-253a-4fe5-863f-948d9feb0e5b.png)
 
-  
+<hr>
+
+**Author Bui Tran Ngoc Ly**  
   
   
