@@ -74,3 +74,6 @@ VÍ DỤ
 
 ![image](https://user-images.githubusercontent.com/88178841/141487470-450707f3-f638-457d-9519-4bd09613f15c.png)
 
+<hr>
+
+**Author Bui Tran Ngoc Ly**
