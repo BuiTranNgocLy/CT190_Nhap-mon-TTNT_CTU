@@ -24,3 +24,7 @@
   - Là một cách tiếp cận tập trung vào việc học để `hoàn thành được mục tiê` bằng việc `tương tác trực tiếp với môi trường.`
   - Đây là các bài toán giúp cho một hệ thống `tự động xác định hành động` dựa vào `môi trường cụ thể` để đạt được `hiệu quả cao nhất.`
   - `Bản chất` của học tăng cường là trial-and-error, nghĩa là `thử đi thử lại và rút ra kinh nghiệm` sau mỗi lần thử như vậy. Đây là một nhánh học khá hấp dẫn trong máy học.
+
+<hr>
+
+**Author Bui Tran Ngoc Ly**
