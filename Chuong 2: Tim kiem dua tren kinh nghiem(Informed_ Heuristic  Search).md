@@ -70,4 +70,6 @@
 * Tạo ra 1 <<bước nhảy đột phá>> theo 1 hướng
 * Áp dụng nhiều hơn 1 toán tử
 
+<hr>
 
+**Author Bui Tran Ngoc Ly**
