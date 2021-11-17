@@ -19,6 +19,8 @@
  
  =>[Slide Lí thuyết.pdf](https://github.com/BuiTranNgocLy/Nhap-mon-TTNT_CT190_CTU/files/7496908/Chuong2_Search_NMTTNT_2021_08_p1-trang-9-12-da.g.p-da.nen.pdf)
 
+<hr>
 
+**Author Bui Tran Ngoc Ly**
 
 
