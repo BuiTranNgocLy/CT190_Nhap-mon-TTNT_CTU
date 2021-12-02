@@ -30,7 +30,7 @@
  - [2. Biểu diễn tri thức là gì?](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#2-tri-th%E1%BB%A9c-l%C3%A0-g%C3%AC)
  - [3. Biểu diễn ánh xạ](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#3-bi%E1%BB%83u-di%E1%BB%85n-%C3%A1nh-x%E1%BA%A1)
  - [4. Các phương pháp biểu diễn tri thức](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#4-c%C3%A1c-ph%C6%B0%C6%A1ng-ph%C3%A1p-bi%E1%BB%83u-di%E1%BB%85n-tri-th%E1%BB%A9c-c%C6%A1-b%E1%BA%A3n)
- - [5. Logic mệnh đề](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#5-logic-m%E1%BB%87nh-%C4%91%E1%BB%81)
+ - [5. Biểu diễn Logic](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#5-bi%E1%BB%83u-di%E1%BB%85n-logic)
  - [6. Chứng minh bằng Hợp giải](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#ch%E1%BB%A9ng-minh-logic)
  ## Chương 4: Học từ dữ liệu
  - [1. Máy học là gì?](https://bitly.com.vn/vkat3c)
