@@ -75,6 +75,40 @@ VÍ DỤ
 
 ![image](https://user-images.githubusercontent.com/88178841/141487470-450707f3-f638-457d-9519-4bd09613f15c.png)
 
+# 6. Biểu diễn thủ tục (Procedural representation)
+## a. Biểu diễn thủ tục
+- Sử dụng tri thức thủ tục để biểu diễn tri thức:
+    - Biểu diễn tri thức như `tập các chỉ thị lệnh` để giải quyết vấn đề
+    - `Các chỉ thị lệnh` trong lược đồ thủ tục chỉ ra `bằng cách nào giải quyết vấn đề.`
+- Tri thức thủ tục `mô tả làm thế nào để thực hiện 1 tác vụ`
+    - Tập trung vào các nhiệm vụ cần thực hiện để đạt được 1 mục tiêu cụ thể.
+    - Gồm 1 `tập các chỉ thị lệnh` để giải quyết.
+- Ví dụ điển hình: `Hệ luật sinh`.
+## b. Hệ luật sinh
+- `Biểu diễn tri thức` dưới dạng `các luật`, tư vấn những `điều nên làm` hoặc đưa ra `kết luận những tình huống cụ thể.`
+- Gồm 1 tập các luật `IF - THEN` chứa cặp `<condition , action>`, mô tả các sự kiện & trình biên dịch, điều khiển việc áp dụng các luật & các sự kiện được cho.
+- Sử dụng `luật suy diễn tiến` ( dữ liệu -> mục tiêu ) ; `luật suy diễn lùi` ( mục tiêu về dữ liệu )
+- VD:
+
+![image](https://user-images.githubusercontent.com/88178841/144354380-7c7f04e5-b042-4023-9e02-f28103f0bed9.png)
+
+# 7. Biểu diễn mạng (Network representation)
+## a. Biểu diển mạng
+- Tri thức biểu diễn dưới `dạng đồ thị`:
+    - `Đỉnh`: các `đối tượng` hoặc `khái niệm`
+    - `Các cung`: quan hệ giữa chúng
+- Ví dụ về lược đồ này: mạng ngữ nghĩa, phụ thuộc khái niệm, đồ thị khái niệm,...
+## b. Biểu diễn tri thức mạng ngữ nghĩa
+- `Định nghĩa`: Là lược đồ biểu diễn kiểu mạng, dùng `đồ thị` biểu diễn tri thức:
+    - `Các đỉnh`: biểu diễn cád đố tượng
+    - `Các cung`: biểu diễn quan hệ giữa  
+- Ví dụ:
+
+![image](https://user-images.githubusercontent.com/88178841/144355028-217991f8-f3a0-4aff-8c81-330fbc7b29ee.png)
+
+# 8. Biểu diễn cấu trúc (Structural rêprsentation)
+- `Là 1 mở rộng của lược đồ mạng`: bằng cách cho phép `các Node` có thể là `1 CTDL phức tạp` gồm các khe (slot)
+
 <hr>
 
 **Author Bui Tran Ngoc Ly**
