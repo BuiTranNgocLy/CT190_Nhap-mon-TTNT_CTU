@@ -106,8 +106,24 @@ VÍ DỤ
 
 ![image](https://user-images.githubusercontent.com/88178841/144355028-217991f8-f3a0-4aff-8c81-330fbc7b29ee.png)
 
-# 8. Biểu diễn cấu trúc (Structural rêprsentation)
-- `Là 1 mở rộng của lược đồ mạng`: bằng cách cho phép `các Node` có thể là `1 CTDL phức tạp` gồm các khe (slot)
+# 8. Biểu diễn cấu trúc (Structural representation)
+- `Là 1 mở rộng của lược đồ mạng`: bằng cách cho phép `các Node` có thể là `1 CTDL phức tạp` gồm các khe (slot) có tên và giá trị hay 1 thủ tục.
+- Tích hợp cả dạng `khai báo & thủ tục`
+- Ví dụ về lược đồ này: Khung(frame), đối tượng(Object)
+## Biểu diễn tri thức bằng frame
+
+![image](https://user-images.githubusercontent.com/88178841/144435759-c9b2bd4d-85e0-4b31-8203-340e268de6e7.png)
+
+- `Frame-khung`: là 1 `cấu trúc dữ liệu` chứa tất cả tri thức về 1 đối tượng cụ thể. Là cấu trúc `dạng hướng đối tượng trong AI` và các hệ chuyên gia.
+- Cấu trúc của Frame:
+    - `Frame name`: tên cá thể; tên lớp
+    - `Class`:  cho biết Frame đang biểu diễn có trường Class -> `cho phép thành lập quan hệ thừa kế`
+    - `Các thuộc tính (Property)`: khi biểu diễn 1 Frame có thể thiết lập 1 hay nhiều thuộc tính cho nó.
+
+![image](https://user-images.githubusercontent.com/88178841/144437219-8fcba02c-79da-4d60-8cc1-40daa4dfd2a8.png)
+![image](https://user-images.githubusercontent.com/88178841/144437267-98ed1fae-cf64-4485-a920-de6813b0e177.png)
+
+
 
 <hr>
 
