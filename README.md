@@ -33,6 +33,7 @@
  - [5. Biểu diễn Logic](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#5-bi%E1%BB%83u-di%E1%BB%85n-logic)
  - [6. Biểu diễn Thủ tục](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#6-bi%E1%BB%83u-di%E1%BB%85n-th%E1%BB%A7-t%E1%BB%A5c-procedural-representation)
  - [7. Biểu diễn Mạng](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#7-bi%E1%BB%83u-di%E1%BB%85n-m%E1%BA%A1ng-network-representation)
+ - [8. Biểu diễn Cấu trúc](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU/blob/main/Chuong%203:%20Bieu%20dien%20tri%20thuc.md#8-bi%E1%BB%83u-di%E1%BB%85n-c%E1%BA%A5u-tr%C3%BAc-structural-representation)
  ## Chương 4: Học từ dữ liệu
  - [1. Máy học là gì?](https://bitly.com.vn/vkat3c)
  - [2. Phân loại máy học](https://bitly.com.vn/ttkqp6)
