@@ -22,7 +22,8 @@
 - `Mô hình mạng` Network representation – semantic networks, conceptual graphs
 - `Mô hình cấu trúc` Structural representation – scripts, frames, objects 
 
-# 5. Logic mệnh đề
+# 5. Biểu diễn Logic
+## Logic mệnh đề
 - `Mệnh đề`: là một khẳng định có tính chất đúng (true) hoặc sai (false).
 ![image](https://user-images.githubusercontent.com/88178841/141440439-748316ec-b44b-428a-85e3-be8064717cdb.png)
 - `Ngữ nghĩa của phép toán mệnh đề`được diễn giải bằng cách gán chân trị cho các mệnh đề (một ánh xạ từ các ký hiệu mệnh đề vào tập {T,F})
